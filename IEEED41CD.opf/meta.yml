@@ -1,0 +1,365 @@
+id: IEEED41CD
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-17T14:22:34.845466'
+last_modified: '2022-06-17T14:22:34.845487'
+parser: null
+source_metadata:
+  title: Songs and Poems Series
+  language: en
+  description: 'A selection of spiritual songs (mgur; glu) or poems:'
+  volume:
+    fF11F:
+      title: Acrostic Song
+      base_file: fF11F.txt
+      order: 1
+      parent: Acrostic
+    f9645:
+      title: 'Disheartened by Circumstances: An Acrostic Poem'
+      base_file: f9645.txt
+      order: 2
+      parent: Acrostic
+    f6809:
+      title: A Song for Travelling from Sikkim to Tibet
+      base_file: f6809.txt
+      order: 3
+      parent: Advice
+    f3260:
+      title: Advice for Jamyang Losal Zangpo
+      base_file: f3260.txt
+      order: 4
+      parent: Advice
+    fED0A:
+      title: Advice to Myself Exposing Hidden Flaws
+      base_file: fED0A.txt
+      order: 5
+      parent: Advice
+    fBD78:
+      title: Khandro's Plea
+      base_file: fBD78.txt
+      order: 6
+      parent: Advice
+    f55F9:
+      title: 'The Blissful Path to Awakening: A Song on the Essence of Definitive
+        Meaning'
+      base_file: f55F9.txt
+      order: 7
+      parent: Advice
+    fA984:
+      title: How to Take the Practice to Heart
+      base_file: fA984.txt
+      order: 8
+      parent: Advice
+    f98DF:
+      title: 'The Sound of the Divine Drum: Advice at a Time of Victory'
+      base_file: f98DF.txt
+      order: 9
+      parent: Advice
+    fA660:
+      title: Many Are the Scholars Who Travel Empty-Handed to the Realm of the Dead
+      base_file: fA660.txt
+      order: 10
+      parent: Advice
+    f9598:
+      title: 'Divine Music: Words of Encouragement for the Authentic Path'
+      base_file: f9598.txt
+      order: 11
+      parent: Advice
+    f81CA:
+      title: Song of the Enchanting Wildwoods
+      base_file: f81CA.txt
+      order: 12
+      parent: Advice
+    fDDD9:
+      title: A Song of Amazement Inspired by Practice Experience
+      base_file: fDDD9.txt
+      order: 13
+      parent: Advice
+    f8342:
+      title: 'Rain of Accomplishments: A Song that Incorporates the Four Mindfulnesses
+        from an Instruction on the View of the Middle Way'
+      base_file: f8342.txt
+      order: 14
+      parent: Advice
+    f4D58:
+      title: Types of Spiritual Song
+      base_file: f4D58.txt
+      order: 15
+      parent: Classification
+    f2E64:
+      title: On Jetsün Drakpa Gyaltsen’s How to Take the Practice to Heart
+      base_file: f2E64.txt
+      order: 16
+      parent: Commentaries
+    f0E43:
+      title: A Song to Aid the Recollection of Parental Kindness and Encourage the
+        Recitation of the Maṇi Mantra
+      base_file: f0E43.txt
+      order: 17
+      parent: Compassion
+    f7327:
+      title: A Song of Compassion
+      base_file: f7327.txt
+      order: 18
+      parent: Compassion
+    f53A1:
+      title: When Remembering My Mother
+      base_file: f53A1.txt
+      order: 19
+      parent: Compassion
+    f44E2:
+      title: A Lamenting Plea for Compassion
+      base_file: f44E2.txt
+      order: 20
+      parent: Devotion
+    f7A11:
+      title: A Song Recalling the Noble Guru’s Kindness
+      base_file: f7A11.txt
+      order: 21
+      parent: Devotion
+    fADB3:
+      title: A Song Requested by the Buddhist Monk Jamyang Yönten Gyatso
+      base_file: fADB3.txt
+      order: 22
+      parent: Devotion
+    f2844:
+      title: Lament Composed in a State of Deep Sadness
+      base_file: f2844.txt
+      order: 23
+      parent: Devotion
+    f9243:
+      title: 'Lightning Bands of Compassion: A Song of Lament for Khenchen Kunzang
+        Palden Tupten Chökyi Drakpa'
+      base_file: f9243.txt
+      order: 24
+      parent: Devotion
+    fB49A:
+      title: 'Piercing Devotion: A Lament for Lama Sakyapa'
+      base_file: fB49A.txt
+      order: 25
+      parent: Devotion
+    f766D:
+      title: Song Composed for Jamyang Chöpel
+      base_file: f766D.txt
+      order: 26
+      parent: Devotion
+    f9D0F:
+      title: 'The Cloud Messenger: A Song of Prayer to the Omniscient Guru'
+      base_file: f9D0F.txt
+      order: 27
+      parent: Devotion
+    f6B88:
+      title: 'The Rain of Wisdom Blessings: A Song of Prayer to the Guru'
+      base_file: f6B88.txt
+      order: 28
+      parent: Devotion
+    fD090:
+      title: 'The Sweet Call of the Kalaviṅka: A Song Evoking the Omniscient King
+        of Dharma'
+      base_file: fD090.txt
+      order: 29
+      parent: Devotion
+    f8386:
+      title: 'Tremendous Piercing of the Heart: A Lament Recalling the Guru'
+      base_file: f8386.txt
+      order: 30
+      parent: Devotion
+    f1878:
+      title: 'Waves of Devotion: A Song Recalling the Omniscient King of Dharma'
+      base_file: f1878.txt
+      order: 31
+      parent: Devotion
+    f7A8F:
+      title: 'The Spontaneous Sound of Uncontrived Song: A Lament Recalling the Great
+        Guru of Oḍḍiyāna'
+      base_file: f7A8F.txt
+      order: 32
+      parent: Devotion
+    f6459:
+      title: The Song of the Vajra
+      base_file: f6459.txt
+      order: 33
+      parent: Dzogchen
+    f7CB0:
+      title: A Song in Six Verses
+      base_file: f7CB0.txt
+      order: 34
+      parent: Dzogchen
+    f3E50:
+      title: Song Composed for Venerable Jinpa
+      base_file: f3E50.txt
+      order: 35
+      parent: Dzogchen
+    f8446:
+      title: Song of Experiential Certainty
+      base_file: f8446.txt
+      order: 36
+      parent: Dzogchen
+    fAA2C:
+      title: Song that Arose Spontaneously at Taktse Podrang, Sikkim
+      base_file: fAA2C.txt
+      order: 37
+      parent: Dzogchen
+    f47C1:
+      title: Spontaneously Written Song of Experience
+      base_file: f47C1.txt
+      order: 38
+      parent: Dzogchen
+    f3123:
+      title: A Song of Advice for Gok Zangden
+      base_file: f3123.txt
+      order: 39
+      parent: Dzogchen
+    f501A:
+      title: A Song to Introduce the Unmistaken View of the Great Perfection
+      base_file: f501A.txt
+      order: 40
+      parent: Dzogchen
+    fDB68:
+      title: Verses to Remove Hindrances and Sustain Realization of the Nature of
+        Mind
+      base_file: fDB68.txt
+      order: 41
+      parent: Dzogchen
+    f271A:
+      title: In This Pure Awareness
+      base_file: f271A.txt
+      order: 42
+      parent: Dzogchen
+    fEAFA:
+      title: 'Aho Ye: Impressions of an Insightful Experience'
+      base_file: fEAFA.txt
+      order: 43
+      parent: Dzogchen
+    fF38E:
+      title: Five-Verse Doha of Yogic Realization
+      base_file: fF38E.txt
+      order: 44
+      parent: Dzogchen
+    f4D32:
+      title: 'Mindfulness: The Mirror of the Mind'
+      base_file: f4D32.txt
+      order: 45
+      parent: Dzogchen
+    f8878:
+      title: Natural Great Peace
+      base_file: f8878.txt
+      order: 46
+      parent: Dzogchen
+    fDBA8:
+      title: 'Ḍākinī’s Delight: A Song of the Feast'
+      base_file: fDBA8.txt
+      order: 47
+      parent: Feast Songs
+    f8675:
+      title: Song of the Feast (Tsok Lu)
+      base_file: f8675.txt
+      order: 48
+      parent: Feast Songs
+    f00BB:
+      title: Upon Hearing the Fluted Speech of Kunzang Dechen Tsomo, Queen Mother
+        of Sikkim
+      base_file: f00BB.txt
+      order: 49
+      parent: General
+    fA8CC:
+      title: 'Nectar of the Heart: An Experiential Song of Parting from the Four Attachments'
+      base_file: fA8CC.txt
+      order: 50
+      parent: General
+    fDBA4:
+      title: A Short Song of Practice
+      base_file: fDBA4.txt
+      order: 51
+      parent: General
+    fB2FE:
+      title: When Flowers Were Ravaged by the Frost
+      base_file: fB2FE.txt
+      order: 52
+      parent: Impermanence
+    fA5BF:
+      title: Verses of Advice for Meditating on Impermanence
+      base_file: fA5BF.txt
+      order: 53
+      parent: Impermanence
+    f6D38:
+      title: 'A Yogi’s Song of Happiness: The Melody that Brings Universal Auspiciousness
+        and Fulfilment'
+      base_file: f6D38.txt
+      order: 54
+      parent: Joy
+    f3626:
+      title: Drawing Out the Quintessence of the View
+      base_file: f3626.txt
+      order: 55
+      parent: Lamdré
+    f592B:
+      title: Song of Deathlessness
+      base_file: f592B.txt
+      order: 56
+      parent: Longevity
+    fC666:
+      title: 'The Excellent Path of Definitive Meaning: An Unmistaken Expression of
+        the Definitive Mahāmudrā'
+      base_file: fC666.txt
+      order: 57
+      parent: Mahāmudrā
+    f65DB:
+      title: A Spontaneous Vajra Song
+      base_file: f65DB.txt
+      order: 58
+      parent: Prayer
+    f6B74:
+      title: 'Lightning Band of Faith: A Song to Invoke the Master’s Wisdom Mind'
+      base_file: f6B74.txt
+      order: 59
+      parent: Prayer
+    f1164:
+      title: A Song of Prayer to Jamyang Loter Wangpo
+      base_file: f1164.txt
+      order: 60
+      parent: Prayer
+    fC940:
+      title: 'Auspicious Dance of Longevity: A Song for Touring the Sacred Sites of
+        Nepal'
+      base_file: fC940.txt
+      order: 61
+      parent: Sacred Places
+    fA665:
+      title: Upon Arriving at Yangleshö
+      base_file: fA665.txt
+      order: 62
+      parent: Sacred Places
+    fBC74:
+      title: Jangphen Namkha Dzong
+      base_file: fBC74.txt
+      order: 63
+      parent: Sacred Places
+    fA6F4:
+      title: 'Great Stake to the Heart: A Song of Sadness'
+      base_file: fA6F4.txt
+      order: 64
+      parent: Sadness
+    f2030:
+      title: Song of Prayer to Milarepa
+      base_file: f2030.txt
+      order: 65
+      parent: Sadness
+    f0D93:
+      title: Spontaneously Arisen Song of Intense Sadness
+      base_file: f0D93.txt
+      order: 66
+      parent: Sadness
+    f441F:
+      title: Twelve and a Half Crippled Verses
+      base_file: f441F.txt
+      order: 67
+      parent: Wonder
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
